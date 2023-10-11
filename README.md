@@ -4,4 +4,4 @@ FXSS: Uncovered web app vulnerabilities enabling malicious code injection, posin
 # Installation
 1. Clone the repository: 
 2. Install the requirements file: pip3 install -r requirements
-3. Run the main.py file
+3. Run the mainupdated.py
